@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hkayann.
 - 👀 I’m interested in Linux, Arduinos, Raspberry Pis, ESPs, Pycomms, anything related to the edge computing. 
 - 🌱 I’m currently working on edge machine learning methods (TinyML) | predictive analysis | embedded machine learning. 
-- 💞️ I’m a BLE and Linux lover.
+- 💞️ I’m a BLE and Linux/MacOS lover.
 - 📫 You can reach me from my personal [website.](https://hkayann.github.io/)
 
 <!---
