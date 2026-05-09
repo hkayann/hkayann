@@ -1,53 +1,41 @@
-# Hi, I'm Hakan Kayan (@hkayann)
+## Hakan Kayan
 
-**Final Year PhD Student at Cardiff University** specializing in **Embedded Machine Learning (TinyML)**, **Anomaly Detection**, and **Predictive Maintenance**.  
+Postdoctoral Researcher, Cardiff University | Neuromorphic Computing & Embedded AI | Cardiff, UK
 
----
-
-## **My Focus Areas**
-- **Embedded Machine Learning (TinyML)**:  
-  Optimizing models for edge devices using techniques like **quantization**, **pruning**, and **compression**.  
-- **Anomaly Detection**:  
-  Leveraging **AI/ML** for real-time detection on IoT and resource-constrained hardware.  
-- **IoT and Edge Computing**:  
-  Building scalable edge-to-cloud architectures integrating **BLE** and **sensor fusion**.  
-- **Adversarial Robustness**:  
-  Enhancing the reliability of ML models against adversarial challenges.  
+I build gradient-free spiking neural network pipelines for event cameras, targeting deployment on neuromorphic hardware such as Loihi and SpiNNaker. My work sits at the boundary of neuroscience-inspired computation and practical embedded systems, designing inference pipelines that are analytically principled and measurably energy-efficient.
 
 ---
 
-## **Tech Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) 
-![TensorFlow Lite Micro](https://img.shields.io/badge/TensorFlow%20Lite%20Micro-FF6F00?logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![BLE](https://img.shields.io/badge/Bluetooth%20Low%20Energy-BLE-blue)  
-![Linux](https://img.shields.io/badge/Linux-Advocate-FCC624?logo=linux&logoColor=black)  
+### Research focus
+
+- **Spiking neural networks** gradient-free training, LIF calibration, random-feature reservoirs for event-based vision
+- **Event-based vision** DVS sensor processing, voxel representations, sparse asynchronous inference
+- **Embedded AI** sub-1 mW inference pipelines on constrained hardware; TFLite Micro, ONNX, STM32
+- **ML robustness** adversarial evaluation, FP8/FP4 quantization effects, corruption benchmarking
 
 ---
 
-## **Current Projects**
-- **Edge AI for Anomaly Detection**:  
-  Real-time anomaly detection on IoT devices using LSTM, 1D-CNN, and 2D-CNN models.  
-- **Optimizing TinyML Models**:  
-  Applying quantization and compression for resource-constrained hardware like **STM32-based PCBs**.  
-- **Adversarial Robustness**:  
-  Improving ML model resilience on edge devices against adversarial attacks.  
+### Selected projects
+
+**Event camera system (Prophesee + Raspberry Pi)** Multimodal RGB + event camera platform with synchronised dataset generation and edge-side crowd anomaly detection using spiking neural networks.
+
+**Embedded anomaly detection** Open-source anomaly detection pipeline for industrial robotic arm IMU data. 98%+ accuracy with LSTM and 1D-CNN; 35% power reduction via edge-compute scheduling.
+
+**CyberASAP** ML-based anomaly detection for cyber and physical threats in residential settings, developed as CSO of a UKRI-funded cybersecurity venture.
 
 ---
 
-## **Get in Touch**
-🌐 [Portfolio Website](https://hkayann.github.io/)  
-💻 [GitHub](https://github.com/hkayann)  
-📧 [Email](mailto:hakann.kayann@gmail.com)  
-👔 [LinkedIn](https://linkedin.com/in/hakan-kayan-24023110a)  
+### Tech stack
+
+`Python` `PyTorch` `C++` `TensorFlow Lite Micro` `ONNX` `Docker` `GNU/Linux` `Git` `Node-RED` `InfluxDB` `MLOps`
+
+---
+### GitHub stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hkayann&hide_border=true)
 
 ---
 
-<div align="center">
-    <a href="https://hkayann.github.io/">
-        <img src="https://img.shields.io/badge/Visit%20My%20Website-Click%20Here-blue" alt="Website Badge">
-    </a>
-    <img src="https://img.shields.io/badge/Linux-Advocate-orange" alt="Linux Badge">
-    <img src="https://img.shields.io/badge/macOS-Lover-lightgrey" alt="macOS Badge">
-</div>
+### Contact
+
+[Portfolio](https://hkayann.github.io) | [LinkedIn](https://linkedin.com/in/hakan-kayan-24023110a) | [Google Scholar](https://scholar.google.co.uk/citations?user=jMI3kmoAAAAJ&hl=en) | hakann.kayann@gmail.com
